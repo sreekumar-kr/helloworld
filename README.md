@@ -1,7 +1,7 @@
 #Hello World
 A collection of hello world programs in different programming languages
 
-#Languages inlcuded
+#Languages included
 * C
 * C++
 * Python
